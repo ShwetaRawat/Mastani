@@ -18,4 +18,4 @@ function updateProgress(amountRaised) {
 }
 
 // Call the function with the amount raised
-updateProgress(5200);
+updateProgress(8100);
