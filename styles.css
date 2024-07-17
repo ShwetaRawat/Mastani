@@ -11,7 +11,12 @@ body {
 
 /* Header with Gradient Background */
 header {
-    background: linear-gradient(90deg, #36D1DC, #5B86E5);
+  
+
+    background: linear-gradient(90deg, #004d40, #7cb342);
+
+    /* background: linear-gradient(90deg, #2ecc71, #27ae60); */
+
     color: #fff;
     padding: 1.5rem 0;
     text-align: center;
@@ -196,7 +201,9 @@ button:hover {
 }
 /* Footer Styling */
 footer {
-    background: linear-gradient(90deg, #36D1DC, #5B86E5); /* Matching the header gradient */
+    /* background: linear-gradient(90deg, #2ecc71, #27ae60); */
+
+    background: linear-gradient(90deg, #004d40, #7cb342);
     color: #fff;
     padding: 1.5rem 0;
     text-align: center;
